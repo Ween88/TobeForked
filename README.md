@@ -47,4 +47,3 @@ If you're struggling to get in, **don’t force it**—just open an issue, and w
 
 ---
 🔞 **Warning**: This project is strictly for **ethical penetration testing**. Any misuse may result in **getting banned from major platforms** and possibly **permanent blacklisting**. Play safe! 😘
-
