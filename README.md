@@ -33,7 +33,7 @@ npm run deep-fork --verbose
 # Protect your entry points
 npm run apply-lube
 ```
- YEA, I WAN TO BE FORKED WITH YOU
+
 ## 🛑 WARNING
 - Unauthorized **forking** of sensitive systems may result in **unexpected exposure**.
 - Always **use LUBE and protection** to ensure safe, smooth operations.
